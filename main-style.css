@@ -1397,6 +1397,7 @@ h1.split-title {
 .about-list li:first-child {
     padding: 0;
 }
+.image
 
 .about-list li i {
     color: #EECA1D;
@@ -5643,3 +5644,8 @@ hr {
 .ml50 {
 	margin-left: 50px;
 }
+.image .img-responsive{
+	border: grey 1px solid;
+	border-radius: 15px;
+}
+
